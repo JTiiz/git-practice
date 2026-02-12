@@ -1,3 +1,2 @@
 Name: iron
-age: 27
-fav color: blue
+age:9999
